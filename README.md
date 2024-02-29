@@ -1,16 +1,3 @@
-# whatsapp_ui
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShots
+![Chat Listing Screen](https://github.com/RiyaSingh245/WhatsApp_UI/assets/126529318/c3883443-d9d5-4c44-94ac-3701498950cd)
+![Individual Chat Screen](https://github.com/RiyaSingh245/WhatsApp_UI/assets/126529318/bc938563-a619-4079-99e5-f80354d5eab4)
